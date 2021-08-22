@@ -1,6 +1,6 @@
 module.exports = {
   "1": {
-    "name": "Fazal",
+    "name": "Fazal-e-Mabood",
     "birthday": "10-18"
   },
   "2": {
